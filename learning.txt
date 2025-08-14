@@ -1,0 +1,5 @@
+Before this course, I understood version control in theory but lacked practical experience. Now, 
+I've learned how to use Git and GitHub to manage my projects effectively.
+I can clone a repository, create branches for new features, and commit my changes. 
+The process of making a pull request has also shown me how to collaborate with others without creating conflicts,
+which is a crucial skill for any developer.
